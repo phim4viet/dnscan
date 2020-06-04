@@ -10,7 +10,7 @@ If this fails, it will lookup TXT and MX records for the domain, and then perfor
 Usage
 -----
 
-dnscan.py (-d \<domain\> | -l \<list\>) [OPTIONS]
+dnscan.py (-d \<domain\> or \<dev%%.domain.com\> | -l \<list\>) [OPTIONS]
 
 #### Mandatory Arguments
     -d  --domain                              Target domain; OR
